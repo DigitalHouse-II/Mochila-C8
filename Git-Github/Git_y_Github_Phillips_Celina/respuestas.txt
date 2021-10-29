@@ -1,0 +1,3 @@
+a. Lo creó Linus Torvalds con el proposito de que los programadores y desarrolladores de software puedan compartir sus proyectos y codigos a travez de la nube abiertamente.
+b. Actualmente pertenece a Microsoft en el año 2018 ya que lo compra para hacer enfoque en el open source.
+c. Si, a travez de la web se pueden crear y modificar repositorios.
