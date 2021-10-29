@@ -1,0 +1,17 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+El sistema de control de versión Git nació en el 2005 a raiz de una serie de funciones que querian ofrecerse gratis a los desarrolladores que antes usaban DVCS propietario llamado BitKeeper. Este DVCS hacia parte de cambios generados en el software kernel de Linux, un software de código abierto.
+Así que tras un cambio de la empresa y dejar de ofrecer BitKeeper como gratuito,  Linus Torvalds, el creador de Linux buscó desarrollar una herramienta que pudiera ser gratis y que diera las mismas funciones de este, y entonces nació Git. 
+
+b. ¿A quién pertenece actualmente Github y por qué?
+GitHub es una empresa que provee control de versiones de git de forma gratuita y de pago. La empresa tiene como fundadores a Tom Preston-Werner, Chris Wanstrath, P. J. Hyett y Scott Chacon. En esta medida, Git se mantiene como una empresa liderada bajo el orden de codigo y software abierto, siendo miembro de la Software Freedom Conservancy organización centrada en la tecnología ética. 
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Sí, actualmente git ofrece control de revisiones, control de fuentes o gestión del código fuente en la nube. Lo ideal es su capacidad para el trabajo colaborativo, trabajo remoto y el seguimiento de tus codigos. Según TrustRadius, hay una gran cantidad de softwares similares siendo GitHub un lider.
+
+
+Sources: 
+
+[1] git-scm.com. (2021). 1.2 Inicio - Sobre el Control de Versiones - Una breve historia de Git. Versión digital. Link: https://git-scm.com/book/es/v2 Inicio---Sobre-el-Control-de-Versiones-Una-breve-historia-de-Git
+[2] Wikipedia. (2021). Buscador Online palabra= GitHub. Link:https://en.wikipedia.org/wiki/GitHub
+[3] SFC. (2021). Página en línea Software Freedom Conservancy. Link:https://sfconservancy.org/
+[4] TrustRadius. (2021). Top Rated Version Control Products. Link: https://www.trustradius.com/version-control
