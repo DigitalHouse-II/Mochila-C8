@@ -1,0 +1,3 @@
+El sistema de control de versiones Git lo inventó Linus Torvalds. Para ser utilizado para ser utilizado en el desarrollo kernel de Linux. 
+Microsoft ha llegado a un acuerdo para adquirir GitHub, plataforma de desarrollo colaborativo de software, por 7.500 millones de dólares (6.406 millones de euros) en acciones, según ha anunciado el gigante de Redmond, que espera cerrar la compra a finales de año
+Otra forma de trabajar con gitHub es a través de un IDE. 
