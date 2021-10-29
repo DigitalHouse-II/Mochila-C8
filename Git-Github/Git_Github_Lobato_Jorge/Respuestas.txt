@@ -1,0 +1,3 @@
+a. Lo creo Linus Torvals con el fin de que los programadores y desarrolladores de software puedan compartir sus proyectos a travez de la nube.
+b. Actualmente pertenece a Microsoft desde 2018.
+c. Si, a traves de la web se pueden crear y modificar repositorios.
