@@ -1,0 +1,11 @@
+CREANDO UN REPOSITORIO
+git init / crea un repositorio local
+git config --global user.name "mi usuario" / configurar mi usuario
+git config --global user.email "mi email" / configurar mi email
+git remote add origin http: //... / Apunta al repositorio remoto
+git add . / agrega todos los archivos
+git commit -m "mensaje" / comitea los cambios hechos
+git push origin main / envia los cambios al repositorio remoto
+git status / realiza un seguimiento de los estados de los archivos
+git branch / crea una rama alternativa
+git checkout "nombre de la rama creada" / cambia a la rama creada
