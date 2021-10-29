@@ -1,0 +1,19 @@
+Git clone <url> - Clona un repositorio existente.
+
+Git add . - Agrega todos los archivos a stash.
+
+Git remote add <url> - Nos vincula con un repositorio remoto.
+
+Git commit -m " " - Realizamos un commit de nuestro proyecto.
+
+Git log - Nos muestra un registro de nuestros commits, fecha, hora y autor.
+
+Git log --graph -Nos muestra un grafico de los commits hechos en sus respectivas ramas originarias.
+
+Git branch nombre - Creamos una rama nueva.
+
+Git pull origin rama - Nos traemos una actualizacion de los cambios hechos en el proyecto remoto.
+
+Git push origin rama - Enviamos nuestro progreso a una rama en el repositorio remoto seleccionado.
+
+Git checkout rama o commit - Dependiendo la sintaxis nos cambia de rama o nos "regresa en el tiempo" si ingresamos el hash correspondiente al commit al cual queremos volver. 

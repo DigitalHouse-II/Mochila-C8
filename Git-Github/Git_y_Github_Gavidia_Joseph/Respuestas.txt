@@ -1,3 +1,5 @@
 A. Lo creó Linus Torvalds, lo hizo con la finalidad de promover la innovación.
 
-B. Actualmente le pertenece a Microsoft, compró la empresa porque 
+B. Actualmente le pertenece a Microsoft, compró la empresa porque vió el potencial que podia tener la plataforma en su poder.
+
+C. Si, existe Github Desktop.
