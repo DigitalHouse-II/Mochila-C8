@@ -1,0 +1,1 @@
+Git fue creado por Linus Torvalds, creador de Linux, como respuesta antes diferencias entre la compañia propietaria de bitkeeper, sistema de control de veriones distribuido que utilizaba el kernel de Linux el cual fue privatizado e impulsó a la comunidad de desarrollo de Linux a crear git.
