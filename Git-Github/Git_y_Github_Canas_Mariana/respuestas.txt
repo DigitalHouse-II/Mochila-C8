@@ -1,0 +1,3 @@
+1- Fue Creado por Linus Torvalds, para que los programadores pudieran trabajar de manera colaborativa y tener un historial de los cambios realizados.
+2- Fue comprado por Microsot en 2018 para cumplir con su misión y lema "desarrolladores, desarrolladores y desarrolladores" estimular el uso del código abierto y colaborativo.
+3- La otra manera es vía web, se puede crear y modificar repositorios.
