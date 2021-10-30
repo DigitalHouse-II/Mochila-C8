@@ -3,11 +3,13 @@
 ## Crear
 
 **git init**
+
 Crear un repositorio local / inicializar
 
 ## Configurar
 
 **git config user.name nombre_usuario**
+
 **git config user.email email**
 
 Configurar nombre de usuario e email
@@ -42,9 +44,12 @@ Sube los archivos ya comiteados a la rama que se indique
 Brinda información sobre el estado de los archivos dentro del repositorio
 
 **git log**
+
 **git log --oneline**
 
-Brinda información sobre cada commit realizado. Con --oneline obtenemos la misma información pero en versión resumida
+Brinda información sobre cada commit realizado.
+
+Con --oneline obtenemos la misma información pero en versión resumida
 
 ## Revisar commits
 
