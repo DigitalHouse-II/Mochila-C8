@@ -1,0 +1,36 @@
+Comandos importantes cmd:
+1)	$ls 
+a.	Ver todo lo que se encuentra dentro de la carpeta
+2)	Cd nombrecarpeta
+a.	Para ingresar a la carpeta
+Comandos importantes git:
+1)	$git status
+a.	Sirve para ver el estado de cada cosa
+2)	$git log
+a.	Sirve para ver todos los movimientos y ediciones de los archivos. Sobre todo sirve para ver el estado de todos los files que fueron comitteados
+3)	$git show <hash>
+a.	Cuando se hace el commit y se pide ver los logs, se podrá ver que hay un hash (un código) asociado a este commit. Si se ingresa este hash luego del show, se podrá ver un historial de aquellos elementos que fueron agregados en ese commit 
+4)	$git add
+a.	Para agregarlo al listado de seguimiento
+5)	$git commit -m “Comentarios de la nueva versión”
+a.	Para pasarlo a la lista de “listo para subir”. Cada vez que se le haga una edición a un arhcivo, hay que volver a commitearlo 
+b.	El commit no se utiliza hasta no tener una versión estable
+6)	$git push origin main
+a.	Para subir al repositorio de github todo lo que se hizo
+7)	$ git clone URLDelRepositorio
+a.	Sirve para descargar de github una copia exacta de lo que está subido para ser trabajado localmente en la PC
+b.	Se utiliza por primera vez cuando el repositorio NO existe localmente. En caso de ya existir y querer trabajar en actualizaciones el comando será otro
+8)	$git pull origin main
+a.	Origin es porque es de un repositorio remoto
+b.	Main porque es de la rama principal (Main)
+c.	Se utiliza cuando se busca actualizar un repositorio que ya se ha descargado previamente. Solo se descargan aquellos archivos que han sufrido alguna modificación y no el paquete entero
+d.	Conviene validar luego con un git pull para detectar si el ultimo log muestra el ultimo cambio	
+9)	$git remove-v
+a.	Sirve para ver con qué URL se está conectado
+10)	$git rm –r
+11)	Git add -A
+a.	Supongamos que creo una subcarpeta y dentro de esta subcarpeta creo un nuevo file. Si yo le doy “add .” se van a agregar todos los files que pertenezcan a esta subcarpeta. Sin embargo el resto de los files que pertenezcan a las carpetas “superiores” y que no hayan sido agregados, no pasarán al estado de staging. Para poder agregar TODOS los archivos a staging, independientemente de si se encuentran en la subcarpeta en cuestión o en carpetas superiroes, se utiliza git add -A
+12)	Git diff
+a.	Sirve para ver las diferencias entre lo que está comitteado y lo que se acaba de editar.
+13)	Git commit –amend -m
+a.	Supongamos que cuando se hace el commit, el mensaje es muy poco descriptivo. Si se lo quiere arreglar se puede utilizar este código. El “-m” justamente indica que lo que se quiere modificar es el mensaje en cuestión.
