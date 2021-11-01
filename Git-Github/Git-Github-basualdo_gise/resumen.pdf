@@ -1,3 +1,5 @@
+Pasos cortos
+
 CREAR UN REPOSITORIO
 git init
 
@@ -28,5 +30,5 @@ git branch "nombre de la rama"
 MOVERSE DE RAMA EN REMA
 git checkout y el nombre donde me quiero MOVERSE
 
-SUBIR LOS CAMIBOS DE LA RAMA
+SUBIR LOS CAMIBOS DE LA RAMA-
 git push origin + nombre de la rama.
