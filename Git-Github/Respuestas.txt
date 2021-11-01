@@ -1,0 +1,3 @@
+a. El sistema de control de versiones git fue creado por Linus Torvalds. El objetivo de su creacion fue conseguir mas velocidad, diseño mas sencillo, un desarrollo no lineal (que existan ramas paralelas), tambien que sea un sistema mas distribuido y capaz de manejar grandes proyectos como el nucleo de linux de manera mas eficiente
+b. Github fue adquirida en 2018 por Microsoft y esto se debio al interes por parte de Microsoft de acercarse a la comunidad del desarrollo de software libre y abierto.
+c. Si, se puede trabajar tambien desde Github Desktop.
