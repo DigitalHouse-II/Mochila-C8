@@ -1,0 +1,68 @@
+Gama baja - Intel
+
+Procesador: Core i3 7100 3.9 GHz Dual-Core Processor
+Placa madre: Asus H110M-K Micro ATX LGA1151 Motherboard
+Memoria principal: G.Skill Aegis 4 GB (1 x 4 GB) DDR4-2133 CL15 Memory
+Memoria Secundaria: Western Digital Caviar Green 500 GB 3.5" 5400RPM Internal Hard Drive
+
+Gama baja - AMD
+
+Procesador: AMD Ryzen 3 2200G 3.5 GHz Quad-Core Processor
+Placa madre: MSI A320M-A PRO Micro ATX AM4 Motherboard
+Memoria ram: Team 8 GB (1 x 8 GB) DDR4-2400 CL16 Memory
+Memoria secundaria: Western Digital Caviar Green 500 GB 3.5" 5400RPM Internal Hard Drive
+
+Gama baja - Armado personalizado
+
+Procesador: Intel Core i5-7400
+Placa madre: ASRock C236 WSI Mini ITX LGA1151
+Memoria principal: Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3600 CL18
+Memoria secundaria: Western Digital Caviar Green 500 GB 3,5 "5400 RPM
+
+Gama media - Intel
+
+Procesador: Intel Core i5-760 2.8 GHz Quad-Core Processor
+Placa madre: Asus P7H55-M Pro Micro ATX LGA1156 Motherboard
+Memoria principal: G.Skill Ripjaws X Series 16 GB (4 x 4 GB) DDR3-1600 CL9 Memory
+Memoria secundaria: Western Digital Caviar Blue 1 TB 3.5" 7200RPM Internal Hard Drive
+GPU: GeForce GT 1030 2GD4 LP OC
+
+Gama media - AMD
+
+Procesador: AMD Ryzen 5 3400G 3.7 GHz Quad-Core Processor
+Placa madre: A320M Asrock  Pro4 Micro ATX AM4 Motherboard
+Memoria principal: Corsair Vengeance RGB Pro 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory
+Memoria secundaria: Western Digital Blue SN550 1 TB M.2-2280 NVME Solid State Drive
+GPU: No se agrega porque está integrado al CPU
+
+Gama media - Armado personalizado
+
+Procesador: Intel Celeron G5905 de 3,5 GHz Cooler Master Hyper 212 EVO 82.9
+Placa madre: Asus PRIME B560M-A Micro ATX LGA1200
+Memoria principal: Corsair Vengeance LPX Memoria DDR4-3200 CL16 de 16 GB (2 x 8 GB)
+Memoria secundaria: Seagate BarraCuda 4 TB 3.5 "5400RPM
+GPU: MSI GeForce RTX 3060 de 12 GB GAMING X
+
+Gama alta - Intel
+
+Procesador: Core i7-10700K Cooler Master Hyper 212 RGB Black Edition 57.3 CFM CPU Cooler
+Placa madre: Asus ROG MAXIMUS XII EXTREME EATX LGA1200 Motherboard
+Memoria principal: Corsair Dominator Platinum 64 GB (4 x 16 GB) DDR4-2400 CL15 Memory
+Memoria secundaria: Intel 2 TB PCI-E Solid State Drive Samsung 970 EVO Plus 2 TB M.2-2280 NVME Solid State Drive
+GPU: PNY Quadro GV100 32 GB Video Card
+
+Gama alta - AMD
+
+Procesador: Amd Ryzen 7 3800xt Cooler Master Hyper 212 RGB Black Edition 57.3 CFM CPU Cooler
+Placa madre: Asus ROG Crosshair VIII Extreme EATX AM4 Motherboard
+Memoria principal: Crucial Ballistix MAX 16 GB (2 x 8 GB) DDR4-5100 CL19 Memory
+Memoria secundaria: Intel 2 TB PCI-E Solid State Drive
+GPU: PNY Quadro RTX 8000 48 GB Video Card
+
+Gama alta - Armado personalizado
+
+Procesador: AMD Ryzen 5 3600 3.6 GHz de 6 núcleos Cooler Master Hyper 212 RGB Black Edition 57.3 CFM
+Placa madre: Asus TUF GAMING X570-PLUS (WI-FI) ATX AM4
+Memoria principal: G.Skill Ripjaws V Series Memoria DDR4-3200 CL16 de 32 GB (2 x 16 GB)
+Memoria secundaria: Samsung 970 Evo Plus de 1 TB M.2-2280 NVME
+GPU: EVGA GeForce RTX 3090 24 GB FTW3 ULTRA GAMING
