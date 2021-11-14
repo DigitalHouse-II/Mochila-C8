@@ -1,3 +1,0 @@
-Comandos mas utilizados
-Clonar un repositorio existente $git clone ssh://usuario@domain.com/repo.git
-Crear un nuevo repositorio local $git init
