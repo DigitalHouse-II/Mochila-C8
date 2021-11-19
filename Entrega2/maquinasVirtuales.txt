@@ -1,0 +1,11 @@
+1.Un lenguaje de programación nos permite construir las instrucciones pata manejar el ordenador/computadora (su hardware). Entonces para construir un sistema operativo se necesita del lenguaje de programación.
+Algunos lenguajes, como Java, son multiplataforma. Esto quiere decir que funciona en redes computacionales heterogéneas (redes de computadoras formadas por más de un tipo de computadora, ya sean PC, Mac, estaciones de trabajo, etc.),y es independiente de la plataforma en la que se vaya a ejecutar. 
+Logra ser un lenguaje que no depende de una arquitectura computacional definida.
+Otros en cambio, como Objective C y Swift, son lenguajes creados para generar programas para sistemas operativos y hardwares específicos. Objective-C es un lenguaje de programación basado en C, pero añadiéndole capacidades de programación orientada a objetos. Se trata de un lenguaje dirigido a crear aplicaciones en iOS y macOS.
+También Swift fue creado por Apple enfocado en el desarrollo de aplicaciones para iOS y macOS. 
+
+2.Virtual Box es una máquina virtual  de sistema basada en Hosted Architecture. Es una aplicación/software que sirve para hacer máquinas virtuales con instalaciones de sistemas operativos sobre un sistema operativo específico que ya tengamos instalado. El SO de base actúa como HOST (hospedador) para el administrador de máquinas virtuales. Los sistemas operativos que se creen con máquina virtual son los GUESTS.
+
+3. Si tengo varias máquinas virtuales y una se rompe no debería afectar a las demás, ya que no compartirían recursos. Para cada una asignamos recursos de hardware específicos (memoria, disco duro virtual, espacio de almacenamiento, etc. Emulan ser computadoras distintas aunque físicamente estén ejecutándose en una misma.
+
+ 
