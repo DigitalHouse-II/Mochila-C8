@@ -1,0 +1,20 @@
+1. Porque un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y 
+en otros no?
+R/porque al escribir un programa , estos se crean con ciertos requerimientos que deben cumplirse
+en las computadoras para que se ejecuten. Algunos programas son diseñados en lenguajes que 
+senciallamente en otros computadores no se pueden leer. 
+Para esto crean compilados e interpretes que ayudan a eliminar las barreras del sistema 
+operativo en particular. 
+
+
+2. Qué tipo de máquina virtual es Virtual Box?
+es un tipo de Hosted architecture , donde el hypervisor se carga sobre el sistema operativo. 
+
+3. Si tengo más de una máquina virtual instalada y una se rompe ¿esto afecta a las demás?
+R/  No, porque cada sistema operativo replicado en la MV funciona de forma independiente
+, por tanto los componentes y funcionamiento actuán independiente aun con otras maquinas dentro 
+de la MV instaladas.
+
+
+
+Nota: archivo realizado en MV ubuntu.
