@@ -1,0 +1,4 @@
+1- Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no? Por compatibilidad de los algoritmos.
+2- Qué tipo de máquina virtual es virtualbox? Es una plataforma de virtualización para ejecutar máquinas virtuales indistintamente de que SO estemos usando.
+3- Si tengo más de una máquina virtual instalada, y una se rompe, esto afecta a las demás? por qué? No, porque cada una es independiente de la otra.
+
