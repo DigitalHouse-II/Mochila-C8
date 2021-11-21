@@ -1,0 +1,23 @@
+
+Por qué un lenguaje de programación solo puede utilizarse en algunos sistemas
+operativos y en otros no?
+
+
+Existen lenguajes de programacion que son compilados para cierto sistema operativo,
+ por lo que solo funcionan en una arquitectura de un sistema operativo en especial. 
+Razon por la cual  se programan para diferentes sistemas operativos y diferentes 
+arquitecturas para poder tener compatibilidad multiplataforma.
+
+
+
+Qué tipo de máquina virtual es VirtualBox?
+
+
+Es del tipo Host system, en este caso el hipervisor corre en una maquina que tiene un 
+sistema operativo instalado, y el sistema operativo hostea el proceso del 
+virtual box. 
+
+Si tengo más de una máquina virtual y una se rompe esto afecta a las demás?
+
+No se veria afectada ya que cada maquina virtual funciona aislada de las demás, pór lo 
+que son individuales y autosuficientes. Cada una tiene su HW asociado. 
