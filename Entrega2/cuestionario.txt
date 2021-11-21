@@ -1,0 +1,7 @@
+Cuestionario
+•	Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+Para que pueda correrse correctamente el ejecutable de cualquier lenguaje de programación debe cumplir con una similar arquitectura y sistema operativo similar.
+•	¿Qué tipo de máquina virtual es virtualBox?. 
+Es una máquina virtual de sistema debido a que emula a un ordenador completo. 
+•	Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+No afecta porque cada VM tiene su propio sistema operativo y funciona de forma separada de otras VM, incluso si están ubicadas en el mismo host físico.
