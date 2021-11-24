@@ -1,0 +1,7 @@
+1. Porque ese lenguaje particular está compilado para un sistema operativo en particular.
+
+2. Es de tipo Hosted Architecture, en donde el hypervisor se  carga sobre el sistema operativo.
+
+3. No, ya que cada sistema operativo funciona de forma independiente dentro de la máquina virtual con respecto a otras másquinas virtuales instaladas adentro.
+
+
