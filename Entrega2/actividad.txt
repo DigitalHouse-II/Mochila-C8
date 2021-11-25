@@ -1,0 +1,18 @@
+Actividad 2
+
+
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+Porque se basa en el diseño de cada lenguaje, algunos son compilados, otros ejecutados en VM y otros interpretados. También debería ser ejecutado en un entorno similar a donde
+se compila, haciendo referencia al SO y al cpu.
+
+¿Qué tipo de máquina virtual es virtualBox?. 
+
+VirtualBox es una maquinar virtual de sistema.
+
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+No, no afecta a las demás, ya que cada una funciona de manera independiente.
+
+Instalación de git en máquina virtual.
