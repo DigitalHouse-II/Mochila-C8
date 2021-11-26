@@ -1,0 +1,19 @@
+Pregunta 1:
+Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+
+Respuesta:
+Esto se debe a que el codigo fuente de los lenguajes de programacion compilados es traducido (compilado) a codigo de maquina para producir un programa ejecutable. Estos archivos ejecutables requieren ser ejecutados en maquinas similares a donde fueron compilados, en terminos de similitud de arquitectura de CPU y similitud de sistemas operativos.
+-------------
+
+Pregunta 2:
+Que tipo de maquina virtual es VirtualBox?
+
+Respuesta:
+Es una maquina virtual de sistema, ya que permite a la maquina fisica subyacente multiplicarse entre varias maquinas virtuales, cada una ejecutando su propio sistema operativo.
+--------------
+
+Pregunta 3:
+Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? por que?
+
+Respuesta:
+El funcionamiento de cada maquina virtual es independiente de las demas. Por lo tanto, en caso de que una maquina se rompa no afectara a las otras.
