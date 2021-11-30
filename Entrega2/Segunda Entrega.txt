@@ -1,0 +1,12 @@
+----------------------------------
+
+Esto se debe a que el codigo fuente de los lenguajes de programacion compilados es traducido (compilado) a codigo de maquina para producir un programa ejecutable.
+Estos archivos ejecutables requieren ser ejecutados en maquinas similares a donde fueron compilados, en terminos de similitud de arquitectura de CPU y similitud de sistemas operativos.
+
+----------------------------------
+
+VirtualBox es un software para virtualización, es utilizado para virtualizar sistemas operativos dentro de nuestra pc, creando lo que se conoce como máquina virtual.
+
+----------------------------------
+
+El funcionamiento de una maquina virtual es independiente, si una se rompe no va a afectar a las demás VM.
