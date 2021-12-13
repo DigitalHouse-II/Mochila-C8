@@ -1,0 +1,15 @@
+●¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+
+Para que un lenguaje de programación sea utilizado en otra máquina, se necesita que la máquina que lo compile y la que ejecuten tengan una Arquitectura de CPU similar y el mismo sistema operativo. 
+Sino se puede recurrir a las máquinas virtuales o interpretes para solucionar ello.
+
+
+● ¿Qué tipo de máquina virtual es virtualBox?.
+Es una máquina virtual de sistemas y corre sobre un sistema operativo.
+
+● Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+
+No afecta las demás porque son independientes. Además, muchos de los sistemas de virtualización permiten utilizar máquinas virtuales con la opción de HA (High Availability), esta funcionalidad asegura tener redundancia entre 2 o más ambientes. Nos garantiza que ante la falla de uno de los dos no exista una disrupción del servicio.
+
