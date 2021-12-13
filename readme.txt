@@ -1,7 +1,7 @@
-¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
-La respuesta es por que algunos lenguajes de programacion son multiplataforma, cuando algunos otros no.
-Multiplataforma: Es un término usado para referirse a los programas, sistemas operativos, lenguajes de programación, u otra clase de software, que puedan funcionar en diversas plataformas.
-¿Qué tipo de máquina virtual es virtualBox?Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
-demás? ¿por qué?
-VirtualBox es una aplicación que sirve para hacer máquinas virtuales con instalaciones de sistemas operativos. Esto quiere decir que si tienes un ordenador con Windows, GNU/Linux o incluso macOS, puedes crear una máquina virtual con cualquier otro sistema operativo para utilizarlo dentro del que estés usando.
-Las máquinas virtuales de sistema permiten compartir los recursos físicos de un ordenador host entre varias máquinas virtuales.
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+Fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.1
+b. ¿A quién pertenece actualmente Github y por qué?
+Microsoft ha llegado a un acuerdo para adquirir GitHub, plataforma de desarrollo colaborativo de software, por 7.500 millones de dólares (6.406 millones de euros) en acciones, según ha anunciado el gigante de Redmond, que espera cerrar la compra a finales de año
+Microsoft asegura que GitHub mantendrá su distintivo enfoque de anteponer a los desarrolladores y seguirá operando de forma independiente para ofrecer una plataforma abierta a todos los desarrolladores e industrias. ... GitHub es un repositorio de código online muy popular entre los desarrolladores de código abierto.
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Existen programas con los que podemos trabajar con Github, no solo con la terminal, hasta donde entendi y pude averiguar VSCode y sublime son dos programas que nos van a permitir trabajar con Github.
