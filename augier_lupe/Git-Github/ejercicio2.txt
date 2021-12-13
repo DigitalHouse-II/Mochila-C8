@@ -1,0 +1,2 @@
+A quien pertenece actualmente Github y porque?
+2. Actualmente el dueño de GitHub es Microsoft, quien realizó la compra el 4 de junio de 2018 Microsoft. El mayor repositorio de código del mundo es punto de encuentro para millones de desarrolladores, y esa es precisamente la clave. Con el control de GitHub, Microsoft se hace también con la comunidad de desarrollo más nutrida del planeta.

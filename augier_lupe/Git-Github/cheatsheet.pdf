@@ -1,0 +1,11 @@
+Crear un repositorio = git init
+Clonar un repositorio de github = git clone y nombre de repo 
+Seguimiento de un archivo por git = git add .
+configurar nombre y email = git config user.name // git config user.email
+subir a github = git push origin nombre del branch
+como comiteas para poder pushear un archivo = git commit -m "mensaje"
+crear un branch = git branch nombre del branch
+como ver las ramas = git branch -a 
+borrar una rama = git branch -d nombre rama
+entrar a una rama = git checkout halloween 
+como mergear las ramas = git merge 
