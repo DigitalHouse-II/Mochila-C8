@@ -1,0 +1,15 @@
+﻿Actividad 2
+
+
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto: 
+* ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?.
+* Al escribir un programa en un lenguaje en particular ese programa se compila y se transforma en lenguaje de máquina. Ahora, el problema de los lenguajes compilados es que cuando yo compilo algo y se transforma en un ejecutable ese proceso se compila para un sistema operativo en particular. 
+* ¿Qué tipo de máquina virtual es virtualBox?. 
+El virtual box es de tipo Hosted Architecture, en donde el hypervisor se  carga sobre el sistema operativo.
+* Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+No, porque cada sistema operativo funciona de forma independiente dentro de la máquina virtual y sus componentes y funcionamiento actúan independiente de otras máquinas instaladas dentro. 
+
+
+
+
+Instalación de git en máquina virtual.
