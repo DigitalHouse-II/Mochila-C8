@@ -1,7 +1,0 @@
-1. Git es el sistema de control de versiones moderno mas utilizado del mundo. 
-Es un proyecto de codigo abierto desarrollado originalmente por Linus Torvalds, para ser utilizado en el desarrollo del kernel del sistema operativo Linux, en 2005.
-
-2. Actualmente, GitHub pertenece a la empresa Microsoft, que ofrecio 7500 millones de dolares a cambio.
-
-3.Cuando se instala Git, tambien se instalan sus herramientas gráficas: gitk y git-gui, que son interfaces graficas.
-Sin embargo, toda la potencia de Git se encuentra en la linea de comandos, que es su entorno nativo.
